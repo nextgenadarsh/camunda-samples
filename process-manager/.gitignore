@@ -27,6 +27,7 @@ hs_err_pid*
 
 # Application specific generated file/folders
 target
+*.db
 
 # User-specific stuff
 .idea/**/workspace.xml
